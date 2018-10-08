@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
-github_username: <a href="https://github.com/BoxyTheDev">Boxy The Dev!</a>
+github_username:BoxyTheDev
 
 # Build settings
 markdown: kramdown
